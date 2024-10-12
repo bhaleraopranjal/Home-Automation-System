@@ -16,3 +16,7 @@ This Java program implements a Home Automation System, where users can manage ro
 ## Installation
 - Java Development Kit (JDK) version 8 or above is required to run the program.
 - An IDE or text editor like Eclipse or IntelliJ IDEA is recommended for running the code.
+
+## Dependencies
+- JDK 8+
+- No external libraries are required for this project (add if needed).
